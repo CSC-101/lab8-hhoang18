@@ -1,0 +1,6 @@
+2.0 3.0
+1.2 hello
+3.5 c
+2.3 6.0
+
+#when I test this code in the console, the test passes since the expected responses are returned
